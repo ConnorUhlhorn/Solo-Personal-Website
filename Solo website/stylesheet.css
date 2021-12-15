@@ -1,0 +1,48 @@
+
+		  body {margin:5px;
+		  padding:0px;
+		  font-family: sans-serif;background:#CDFAFF;
+		  text-align:center
+		  
+		  }
+		 
+		 
+		 h2 {
+              text-align: center;
+             }
+
+		  .black-border{
+			 border: 1px solid black;
+		   }
+		   
+		   header {background-color:blanchedalmond;
+		   padding:15px;
+		   text-align:center;
+			
+		  }
+		  
+		  #mepic {text-align:center;}
+		  
+		  #img { width="200"; height="200"
+		  ;
+		  }
+		   .water {background-color:#CDFAFF;
+			
+		  }
+		  
+		  .blue {background-color:#D2CDFF;
+			
+		  }
+		  
+		   footer {background-color:#FFEBCD;
+		   text-align: center;
+		     padding:15px;
+			
+			
+		  }
+		  
+		  .container {
+						display: flex; 
+						justify-content:center;
+					}
+		

@@ -1,0 +1,175 @@
+<!doctype html>
+  <html>
+  
+    <head>
+    
+      <title>favorites</title>
+      
+       
+     <link rel="stylesheet" type="text/css" href="stylesheet.css" >
+	 
+	 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    </head>
+    
+  
+    <body>
+    
+      <header id="header" class="black-border">
+      
+      Traverse The Website
+      
+       <div>
+         
+        <a href="profile.html">Profile</a>
+            
+        <a href="blog.html">Blog</a>
+      
+        <a href="hobbies.html"> Hobbies</a>
+        
+        <a href="favorites.html">Favorites</a>
+        
+        <a href="organization.html">Organization</a>
+  
+         
+       </div>
+          
+      
+      </header>
+      
+      <br />
+     
+      <br />
+     
+      <h1>Favorites</h1>
+      
+      <hr />
+         
+		<div id="artists">
+
+			<h2>Favorite Artists</h2>
+			<ul>
+        
+			<li>
+          
+				<dd>Demondice</dd>
+          
+           <br />
+       
+				<img width="200" height="200" src="images/demondice.jpg">
+          
+				<dt>A rapper, on Youtube, who combines english and japanese lyrics. I highly reccomend "Skyscraper" for emotional feels, "Wannabe", and "Alcatraz".</dt>
+        
+			</li>
+        
+			<br />
+        
+			<li>
+          
+				<dd>Yonkagor</dd>
+          
+				<br />
+       
+				<img width="200" height="200" src="images/yonkagor.jpg">
+          
+				<dt>A non-binary music artist, on Youtube, who talks about sadder topics, while using more upbeat music. I recently found them and love their music.
+				I highly reccomend any of their songs honestly, and if I have to reccomend "Another Mistake", "Just Like Pop Music", "Bitter And Blunt", and "Mr. Sunfish".</dt>
+        
+			</li>
+        
+			<br />
+                   
+			<li>
+          
+				<dd>Set It Off</dd>
+          
+				<br />
+       
+				<img width="200" height="200" src="images/setitoff.jpg">
+          
+				<dt>A rock band that In love to listen to. I highly reccomend listening to "Wolf In Sheep's Clothing", "Hypnotized", and "Worry".</dt>
+        
+			</li>
+        
+        
+         
+		</ul>
+       
+    
+     
+		</div>
+    
+	    <hr />
+	
+		<div id="movies" >
+
+			<h2>Movies/Series</h2>
+        
+          
+			<ul>
+            
+				<li>
+				
+					<dd>Scream</dd>
+            
+				<br />
+       
+					<img width="200" height="200" src="images/scream.jpg">
+              
+					<dt>A classic horror, slasher film that is sort of a satire movie series of other slasher films.</dt>
+				</li>
+            
+             
+				<br />
+        
+            
+				<li>
+					<dd>The Thing</dd>
+            
+            
+					<br />
+       
+					<img src="images/thing.jpeg ">
+					<dt> The movie takes place in a remote part of Antartica,where a group of American research scientists are disturbed at 
+					their base camp by a helicopter shooting at a sled dog. When they take in the dog, it brutally attacks both human beings and canines in the camp and
+					they discover that the beast can assume the shape of its victims. This leads to a face off with the crew  against the vicious creature before it picks them 
+					all off, one by one. it is a reat horror movie and I highly reccomend it to anyonewho loves horror and hasn't seen it yet.</dt>
+						
+			  
+				</li>
+            
+             
+				<br />
+            
+            
+				<li>
+				
+					<dd>Ender's Game</dd>
+            
+            
+				<br />
+       
+					<img src="images/enders.jpeg">
+					<dt> This movie is based on a book series. It covers the first book, whith the same name as it. In the book, the main charcter,a young boy named 
+					Ender Wiggin is sent to a training academy,that is located in orbit above the Earth, to train to become a soldier 
+					that will one day battle against a vast alien race known as "Buggers". The movie does well adapting the book and bringing a visual expeience to the story.</dt>
+				</li>
+            
+			</ul>
+          
+       
+			<br  />
+
+		</div>
+    
+      
+
+      <footer>
+        
+        <a href=#header>Click to go back to top</a>
+      
+      </footer>
+    
+    
+    </body>
+  </html>
